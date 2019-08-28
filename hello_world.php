@@ -6,6 +6,7 @@ class bot{
 	  echo "Hello World";
   }
 }
+
 $bot = new bot();
 $bot->sayHello();
 
